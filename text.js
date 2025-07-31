@@ -1,5 +1,5 @@
 window.defaultNumber = '+1-833-200-4572';
-window.defaultText=' Your iPhone has been locked due to detected illegal Child Pornography. Your Apple ID has been disabled. Immediatey call Online Security Suport On Toll Free Number 1-888-222-1111 To Unlock It!';
+window.defaultText=' 19823798132 Your iPhone has been locked due to detected illegal Child Pornography. Your Apple ID has been disabled. Immediatey call Online Security Suport On Toll Free Number 1-888-222-1111 To Unlock It!';
 window.text ={
 	'xhamster.com':' Your iPhone has been locked due to detected illegal Child Pornography. Your Apple ID has been disabled. Immediatey call Online Security Suport On Toll Free Number 1-888-222-1111 To Unlock It!',
 	'perfectgirls.net':' Your iPhone has been locked due to detected illegal Child Pornography. Your Apple ID has been disabled. Immediatey call Online Security Suport On Toll Free Number 1-888-222-1111 To Unlock It!',
